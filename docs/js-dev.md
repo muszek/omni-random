@@ -2,6 +2,8 @@
 
 **TLDR; Omni Calculator szuka javascriptowego seniora (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem, mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Rośniemy mega szybko i chcemy, żebyś nam pomógł.**
 
+<iframe width="280" height="158" src="https://www.youtube.com/embed/bA_FenPhOHs?showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 Może to i nietypowe ogłoszenie, ale jest niezmierne ważne, żebyśmy znaleźli kogoś, kto się dobrze wpasowuje w nasz zespół, produkt i wizję... i żebyś wiedział(-a), w co się pakujesz.  Zatem w tym tekscie nie przeczytasz o tym, że dostaniesz multisporta i banany, ale raczej o tym, po co robimy to, co robimy.  Będzie też trochę przydługawo, ale chcemy zabrać kilka następnych lat z Twojego życia, więc może warto poświęcić 5 minut na poczytanie o nas.  Przeczytaj i zagadaj, jeśli wyda Ci się to ciekawe.
 
 ## Po co istniejemy?
