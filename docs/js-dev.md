@@ -15,13 +15,13 @@ Pomagamy ludziom podejmować decyzje poprzez ułatwienie oparcia ich o twarde li
 
 Platformę, w ramach której szybko i łatwo tworzy się kalkulatory do liczenia konkretnych rzeczy ("podaj A, B i C, otrzymasz D i E).
 
-Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go półtora roku temu, mamy już 1.3 miliona sesji miesięcznie i podwajamy ruch co mniej-więcej 4 miesiące (ostatnio szybciej). Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogololwiek innego na świecie.  Artykuły w takich serwisach jak TechCrunch, TheNextWeb, Lifehacker, MSN, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-)
+Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go półtora roku temu, mamy już 1.3 miliona sesji miesięcznie i podwajamy ruch co mniej-więcej 4 miesiące (ostatnio szybciej). Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogokolwiek innego na świecie.  Artykuły w takich serwisach jak TechCrunch, TheNextWeb, Lifehacker, MSN, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-)
 
 ## Co w przyszłości?
 
 Wiemy, jak dojść do dziewięciocyfrowego ruchu (setki milionów sesji miesięcznie) po prostu robią to, co robimy i stale poprawiając się w każdym obszarze (a jest jeszcze sporo miejsca do poprawy), ale w pewnym momencie przeznaczymy nasze zasoby na budowanie fajnych narzędzi opartych o naszą rdzieniową technologię. Kilka przykładów:
 
- * Platforma, w ramach której ludzie sami tworzą kakulatory. Taka Wikipedia/GitHub dla kalkulatorów.
+ * Platforma, w ramach której ludzie sami tworzą kalkulatory. Taka Wikipedia/GitHub dla kalkulatorów.
  * Integracja z innymi produktami.  Excel jest obecnie narzędziem dla geek'ów.  W najlepszym wypadku geek zrobi w nim narzędzie dla innego geeka.  My sprawimy, że będzie mógł nim zrobić narzędzie, które obsłuży bez problemu jego babcia.
  * Inne od aktualnego interfejsy.  Np. pozwolimy Siri/Aleksie/Google Assistantowi/Cortanie rozwiązać tysiące popularnych problemów matematycznych.
  
@@ -47,4 +47,4 @@ Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez proble
 
 ## Brzmi ciekawie?
 
-Super.  Pogadajmy.  Najrpościej jest wyciągnąć telefon z kieszeni i wykręcić 507-758-583.  Albo umówić się tekstowo - matt@omnicalculator.com lub Mateusz Mucha na fejsie.  Teraz, potem wypadnie z głowy.
+Super.  Pogadajmy.  Najprościej jest wyciągnąć telefon z kieszeni i wykręcić 507-758-583.  Albo umówić się tekstowo - matt@omnicalculator.com lub Mateusz Mucha na fejsie.  Teraz, potem wypadnie z głowy.
