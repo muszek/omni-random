@@ -1,6 +1,6 @@
 # Omni Calculator szuka developera javascriptowego
 
-**TLDR; Omni Calculator szuka javascriptowego seniora (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem, mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Rośniemy mega szybko i chcemy, żebyś nam pomógł.**
+**TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego seniora (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem, mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Rośniemy mega szybko i chcemy, żebyś nam pomógł.**
 
 [![video](https://d19bmpuck59ajs.cloudfront.net/wp-content/uploads/2015/02/youtube-vid.jpg)](https://www.youtube.com/watch?v=bA_FenPhOHs)
 
