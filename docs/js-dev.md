@@ -44,3 +44,7 @@ Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez proble
 ## Kasa
 
 8-12k netto na B2B i odpowiednio mniej przy umowie o pracę.  Więcej, jeśli jesteś gwiazdą znudzoną tym, co teraz robisz i chcącą zrobić coś, co ma znaczenie (i gotową przyjąć spory ciężar na klatę).
+
+## Brzmi ciekawie?
+
+Super.  Pogadajmy.  Najrpościej jest wyciągnąć telefon z kieszeni i wykręcić 507-758-583.  Albo umówić się tekstowo - matt@omnicalculator.com lub Mateusz Mucha na fejsie.  Teraz, potem wypadnie z głowy.
