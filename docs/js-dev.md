@@ -15,7 +15,7 @@ Pomagamy ludziom podejmować decyzje poprzez ułatwienie oparcia ich o twarde li
 
 Platformę, w ramach której szybko i łatwo tworzy się kalkulatory do liczenia konkretnych rzeczy ("podaj A, B i C, otrzymasz D i E).
 
-Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go półtora roku temu, mamy już 1.3 miliona sesji miesięcznie i podwajamy ruch co mniej-więcej 4 miesiące (ostatni szybciej). Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogololwiek innego na świecie.  Artykuły w takich serwisach jak TechCrunch, TheNextWeb, Lifehacker, MSN, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-)
+Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go półtora roku temu, mamy już 1.3 miliona sesji miesięcznie i podwajamy ruch co mniej-więcej 4 miesiące (ostatnio szybciej). Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogololwiek innego na świecie.  Artykuły w takich serwisach jak TechCrunch, TheNextWeb, Lifehacker, MSN, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-)
 
 ## Co w przyszłości?
 
