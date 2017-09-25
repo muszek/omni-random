@@ -43,7 +43,7 @@ Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez proble
 
 ## Kasa
 
-8-12k netto na B2B i odpowiednio mniej przy umowie o pracę.  Więcej, jeśli jesteś gwiazdą znudzoną tym, co teraz robisz i chcącą zrobić coś, co ma znaczenie (i gotową przyjąć spory ciężar na klatę).
+10-15k netto na B2B i odpowiednio mniej przy umowie o pracę.
 
 ## Brzmi ciekawie?
 
