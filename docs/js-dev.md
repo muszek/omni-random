@@ -44,6 +44,16 @@ Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez proble
 
 10-15k netto na B2B i odpowiednio mniej przy umowie o pracę.
 
+## Inni o nas:
+
+* https://techcrunch.com/2016/06/24/omni-calculator-brings-math-to-the-masses/
+* http://wyborcza.biz/biznes/1,147584,20518836,wszechkalkulator-z-polski-bedziemy-tak-popularni-ze-google.html (zaczynaliśmyu)
+* http://krakow.wyborcza.pl/krakow/7,44425,21700686,omni-calculator-obliczy-wszystko-sukces-aplikacji-z-krakowa.html (pół roku temu)
+* https://in-krakow.pl/news-details/krakowski-kalkulator-przeliczy-wszystko-robi-furore-w-usa/59c3bf90b9c7832900942c41 (film)
+* http://www.rdc.pl/podcast/popoludnie-rdc-omni-calculator/ (radio)
+
 ## Brzmi ciekawie?
 
 Super.  Pogadajmy.  Najprościej jest wyciągnąć telefon z kieszeni i wykręcić 507-758-583.  Albo umówić się tekstowo - matt@omnicalculator.com lub Mateusz Mucha na fejsie.  Teraz, potem wypadnie z głowy.
+
+
