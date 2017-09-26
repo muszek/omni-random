@@ -1,6 +1,6 @@
 # Omni Calculator szuka developera javascriptowego
 
-**TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego fullstackowego seniora (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem, mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Rośniemy mega szybko i chcemy, żebyś nam pomógł.**
+**TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego fullstackowego seniora (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem. Mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Mamy mega szybki i solidnie ugruntowany wzrost.**
 
 [![video](https://d19bmpuck59ajs.cloudfront.net/wp-content/uploads/2015/02/youtube-vid.jpg)](https://www.youtube.com/watch?v=bA_FenPhOHs)
 
@@ -9,7 +9,6 @@ Może to i nietypowe ogłoszenie, ale jest niezmierne ważne, żebyśmy znaleźl
 ## Po co istniejemy?
 
 Pomagamy ludziom podejmować decyzje poprzez ułatwienie oparcia ich o twarde liczby, a nie o emocje lub intuicję.  Ludzie nie potrafią i nie lubią liczyć, my sprawiamy, że otrzymanie potrzebnych liczb jest banalnie proste, szybkie i wygodne. Świat, w którym rzadziej podejmujemy kretyńskie decyzje jest lepszym światem.
-
 
 ## Co robimy?
 
@@ -35,9 +34,9 @@ Przede wszystkim, szukamy kogoś zainteresowanego uczestnictwem w czymś dużym 
  
 ## Skille:
  
-Koniecznie: silny React i vanilla js
+Koniecznie: silny React i vanilla js.
  
-Mile widziane: GraphQL / Apollo, node.js, Redux, doświadczenie w prowadzeniu zespołu.
+Mile widziane: GraphQL / Apollo, node.js, Redux, ogólnie pojęta architektura, doświadczenie w prowadzeniu zespołu.
 
 Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez problemu przeżyjemy.
 
