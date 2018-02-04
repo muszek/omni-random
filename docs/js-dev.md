@@ -32,7 +32,7 @@ Tak, padają.  Ale nie my.  Idąc pod prąd powszechnie obowiązującemu modelow
  
 Przede wszystkim, szukamy kogoś zainteresowanego uczestnictwem w czymś dużym i ważnym.  Jeśli chcesz od życia czegoś więcej, jeśli chcesz współtworzyć projekt na miliard użytkowników, pogadajmy.  Masz do czynienia z tą nietypową sytuacją, kiedy z jednej strony widać już teraz wyraźnie, że wyjdzie z tego duża rzecz, a z drugiej firma jest jeszcze na tyle mała, ze możesz być istotnym współautorem jej sukcesu.  Taka kombinacja nie zdarza się często.
  
-## Skille:
+## Umiejętności
  
 Koniecznie: silny React i vanilla js.
  
@@ -41,6 +41,10 @@ Mile widziane: GraphQL / Apollo, node.js, Redux, ogólnie pojęta architektura, 
 Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez problemu przeżyjemy.
 
 Doświadczenie: najchętniej senior, ale dla zajawionego/ogarniętego juniora też znajdzie się miejsce.
+
+## Miejsce
+
+Kraków, Sienkiewicza 9/17.  Nie budujemy zdalnego zespołu.
 
 ## Kasa
 
