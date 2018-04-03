@@ -1,6 +1,6 @@
 To jest dokumentacja do naszego custom.js.  Pisana przez nie-programistę dla nie-programistów. Zastanawiam się, od której strony to ugryźć - czy opisywać metody, czy od drugiej strony - opisywać, jak ogarnąć konkretne problemy. Pewnie zacznę od opisu metod, a na koniec ugryzę problemy.
 
-## omni.define
+## omni.define()
 
 Pozwala obliczyć wartość jakiejś zmiennej przy pomocy javascriptu (a nie gołym wzorem matematycznym). To jest rozwiązanie jednokierunkowe - możemy obliczyć tylko jedną ze zmiennych (nie policzymy niczego w innych kierunkach... ale kiedyś to umożliwimy).
 
