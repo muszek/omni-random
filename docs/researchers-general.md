@@ -36,7 +36,8 @@ We're looking for people who need to be part of something big (we're going far, 
 
 What we need:
  * A certain degree of expertise in your area (physics, medicine, mathematics, finance).
- * An excellent written English skills (C1 level, we don't need the actual certificate)
+ * An excellent written English skills (C1 level, we don't need the actual certificate).
+ * A general ability to write well.
  * Being able to commit to at least 8 hours of work per week.
 
 ### Place of work
