@@ -35,9 +35,9 @@ We can reasonably expect to serve as much as 300 million users per month in the 
 We're looking for people who need to be part of something big (we're going far, far further than 2.5 million visits per month).  People who take pride in creating things that actually help others.
 
 What we need:
- * certain degree of expertise in your area (physics, medicine, mathematics, finance).
- * excellent written English skills (content needs to be high quality)
- * being able to commit to at least 8 hours of work per week.
+ * A certain degree of expertise in your area (physics, medicine, mathematics, finance).
+ * An excellent written English skills (C1 level, we don't need the actual certificate)
+ * Being able to commit to at least 8 hours of work per week.
 
 ### Place of work
 
