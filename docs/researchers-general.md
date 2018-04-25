@@ -58,6 +58,6 @@ The base salary is 3k net PLN if you were working full-time. Proportionally less
 ## Sounds good?
 
 
-Awesome, let's talk.  Don't procrastinate, write now: jobs@omnicalculator.com .
+Awesome, let's talk.  Don't procrastinate, write now: careers@omnicalculator.com .
 
 
