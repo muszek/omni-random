@@ -56,7 +56,7 @@ The base salary would be 3k net PLN if you were working full-time. Proportionall
 ### Others about us
 
 * https://techcrunch.com/2016/06/24/omni-calculator-brings-math-to-the-masses/
-* http://wyborcza.biz/biznes/1,147584,20518836,wszechkalkulator-z-polski-bedziemy-tak-popularni-ze-google.html (zaczynaliśmyu)
+* http://wyborcza.biz/biznes/1,147584,20518836,wszechkalkulator-z-polski-bedziemy-tak-popularni-ze-google.html 
 * http://krakow.wyborcza.pl/krakow/7,44425,21700686,omni-calculator-obliczy-wszystko-sukces-aplikacji-z-krakowa.html
 * https://in-krakow.pl/news-details/krakowski-kalkulator-przeliczy-wszystko-robi-furore-w-usa/59c3bf90b9c7832900942c41 (film)
 * http://www.rdc.pl/podcast/popoludnie-rdc-omni-calculator/ (radio)
