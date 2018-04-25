@@ -40,6 +40,11 @@ What we need:
  * A general ability to write well.
  * Being able to commit to at least 8 hours of work per week.
 
+### Responsibilities:
+ * researching problems in your area of expertise (online sources)
+ * building calculators for these problems (the building process is fairly easy to learn)
+ * writing high-quality around these topics
+
 ### Place of work
 
 You can work remotely or in our office in Kraków (Sienkiewicza 9/17).
