@@ -6,7 +6,7 @@
 
 [![video](https://d19bmpuck59ajs.cloudfront.net/wp-content/uploads/2015/02/youtube-vid.jpg)](https://vimeo.com/266452745)
 
-## RTFA
+## The long version
 
 Perhaps this posting is a bit unusual, but we're going to take away a chunk of your life, so maybe it's a good idea to spend 5 minutes reading about what we do and - more importantly - why we do it.
 
