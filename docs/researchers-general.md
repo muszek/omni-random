@@ -49,7 +49,7 @@ What we need:
 
 You can work remotely or in our office in Kraków (Sienkiewicza 9/17).
 
-### Renumeration
+### Remuneration
 
 The base salary would be 3k net PLN if you were working full-time. Proportionally less for part-time engagement.  
 
