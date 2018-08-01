@@ -4,7 +4,7 @@
 
 **[Omni Calculator](https://www.omnicalculator.com) is looking for people with a passion for physics, mathematics, medicine, and finance who want to be part of something big and help great numbers of people.  We have a neat product, worthy mission and millions of grateful users.  We'd like you to help us serve hundreds of millions!**
 
-[![video](https://d19bmpuck59ajs.cloudfront.net/wp-content/uploads/2015/02/youtube-vid.jpg)](https://vimeo.com/266452745)
+[![video](https://d33v4339jhl8k0.cloudfront.net/docs/assets/56672fa8c697914361554d94/images/579169c89033602936038327/file-30K2mFMYbz.png)](https://vimeo.com/266452745)
 
 ## The long version
 
