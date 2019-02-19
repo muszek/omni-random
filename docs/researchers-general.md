@@ -38,7 +38,7 @@ What we need:
  * A certain degree of expertise in your area (physics, medicine, mathematics, finance).
  * An excellent written English skills (C1 level, we don't need the actual certificate).
  * A general ability to write well.
- * Being able to commit to at least 8 hours of work per week.
+ * Being able to commit to at least 16 hours of work per week.
 
 ### Responsibilities:
  * researching problems in your area of expertise (online sources)
