@@ -1,4 +1,4 @@
-# Omni Calculator is looking for a part-time **researcher and content writer** with an expertise in one of the following fields: **physics**, **mathematics**, **medicine** or **finance**.
+# Omni Calculator is looking for a part-time **researcher and content writer** with an expertise in one of the following fields: **physics**, **mathematics**, **medicine**, **finance** and **"general science"** (things that don't belong to a specific category, but require critical thinking).
 
 ## TLDR;
 
@@ -24,7 +24,7 @@ We built a platform that makes it easy to create and manage hundreds of calculat
 
 ### How's it going?
 
-We launched the website in April 2016.  As of now (April 2018), we have 425 calculators, 2.5 million monthly sessions and keep doubling the traffic every 4-6 months.  We're achieving it without burning investors' money on traffic acquisition or paid SEO, but purely on a superior utility to our users.  People prefer Omni over its competitors, and that keeps us growing (and happy!).  Being covered by TechCrunch, TheNextWeb, Lifehacker, MSN, Popular Mechanics, Gazeta Wyborcza and even Playboy doesn't hurt, either :-).
+We launched the website in April 2016.  As of now (April 2019), we have 732 calculators, 4.6 million monthly sessions and keep doubling the traffic every 4-6 months.  We're achieving it without burning investors' money on traffic acquisition or paid SEO, but purely on a superior utility to our users.  People prefer Omni over its competitors, and that keeps us growing (and happy!).  Being covered by TechCrunch, TheNextWeb, Lifehacker, MSN, Popular Mechanics, Gazeta Wyborcza and even Playboy doesn't hurt, either :-).
 
 ### Where is it going?
 
@@ -32,10 +32,10 @@ We can reasonably expect to serve as much as 300 million users per month in the 
 
 ### Who are we looking for?
 
-We're looking for people who need to be part of something big (we're going far, far further than 2.5 million visits per month).  People who take pride in creating things that actually help others.
+We're looking for people who need to be part of something big (we're going far, far further than those few million visits per month).  People who take pride in creating things that actually help others.
 
 What we need:
- * A certain degree of expertise in your area (physics, medicine, mathematics, finance).
+ * A certain degree of expertise in your area (physics, medicine, mathematics, finance or science in general).
  * An excellent written English skills (C1 level, we don't need the actual certificate).
  * A general ability to write well.
  * Being able to commit to at least 16 hours of work per week.
@@ -47,7 +47,7 @@ What we need:
 
 ### Place of work
 
-You can work remotely or in our office in Kraków (Sienkiewicza 9/17).
+You can work remotely or in our office in Kraków (Kościelna 3).
 
 ### Remuneration
 
