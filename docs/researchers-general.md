@@ -1,4 +1,4 @@
-# Omni Calculator is looking for a part-time **researcher and content writer** with an expertise in one of the following fields: **physics**, **mathematics**, **medicine**, **finance** and **"general science"** (things that don't belong to a specific category, but require critical thinking).
+# Omni Calculator is looking for a part-time **researcher and content writer** with an expertise in one of the following fields: **physics**, **mathematics**, **medicine**, **finance** or **"general science"** (things that don't belong to a specific category, but require critical thinking).
 
 ## TLDR;
 
