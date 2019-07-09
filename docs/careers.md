@@ -2,5 +2,4 @@
 
 Positions:
 
- * [senior full stack developer](js-dev.md) - react / nodejs
  * [researcher](researchers-general.md) - our calculators are created by bright individuals with a strong scientific background... sounds like you?
