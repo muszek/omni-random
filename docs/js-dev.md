@@ -1,6 +1,6 @@
-# Omni Calculator szuka developera javascriptowego
+# Omni Calculator szuka programisty javascriptowego (senior full stack)
 
-**TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego fullstackowego developera (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem. Mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Mamy mega szybki i solidnie ugruntowany wzrost.**
+**TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego fullstackowego developera (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem. Mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Mamy mega szybki i solidnie ugruntowany wzrost. Zespół liczy aktualnie 23 osoby z 6 krajów.**
 
 [![video](https://d19bmpuck59ajs.cloudfront.net/wp-content/uploads/2015/02/youtube-vid.jpg)](https://www.youtube.com/watch?v=bA_FenPhOHs)
 
@@ -14,7 +14,7 @@ Pomagamy ludziom podejmować decyzje poprzez ułatwienie oparcia ich o twarde li
 
 Platformę, w ramach której szybko i łatwo tworzy się kalkulatory do liczenia konkretnych rzeczy ("podaj A, B i C, otrzymasz D i E).
 
-Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go na początku kwietnia 2016, mamy już ponad 2 miliony sesji miesięcznie (luty 2018) i podwajamy ruch co mniej-więcej 4-5 miesięcy. Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogokolwiek innego na świecie.  Użytkownicy to doceniają, a Google widzi po różnych metrykach, że wolą nas, a nie konkurencję.  Artykuły w takich serwisach jak TechCrunch, TheNextWeb, Lifehacker, MSN, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-)
+Na obecnym etapie wykorzystujemy platformę sami, żeby budować nasz serwis - https://www.omnicalculator.com .  Wypuściliśmy go na początku kwietnia 2016, mamy już ponad 5 milionów sesji miesięcznie (maj 2019). Doszliśmy do tego bez wydawania kasy na ruch lub SEO - po prostu jesteśmy lepsi w rozwiązywaniu problemów naszych użytkowników od kogokolwiek innego na świecie.  Użytkownicy to doceniają, a Google widzi po różnych metrykach, że wolą nas, a nie konkurencję.  Artykuły w takich serwisach jak New York Times, National Geographic, TechCrunch, Business Insider, TheNextWeb, Lifehacker, Cosmopolitan, Huffington Post, Fast Company, Men's Health, Teen Vogue, Vox, The Weather Network, USA Today, Gazeta Wyborcza i nawet Playboy nie zaszkodziły :-). Podobnie jak i wyróżnienie w postaci produktu tygodnia na Product Huncie!
 
 ## Co w przyszłości?
 
@@ -26,7 +26,7 @@ Wiemy, jak dojść do dziewięciocyfrowego ruchu (setki milionów sesji miesięc
  
  ## Czy startupy nie padają co pięć sekund?
  
-Tak, padają.  Ale nie my.  Idąc pod prąd powszechnie obowiązującemu modelowi, [zdecydowaliśmy się nie szukać kasy u inwestorów](https://blog.omnicalculator.com/not-raising/).  Budowa zespołu jest przez to wolniejsza, ale jesteśmy niezależni i stabilni finansowo.  Nie zamkniemy interesu, gdy nie uda się znaleźć inwestorów na kolejną rundę i/lub nie uda się dogonić wydatków przychodami.  Bo musimy, więc wychodzimy na plus.
+Tak, padają.  Ale nie my.  Idąc pod prąd powszechnie obowiązującemu modelowi, zdecydowaliśmy się nie szukać kasy u inwestorów ( https://blog.omnicalculator.com/not-raising/ ).  Budowa zespołu jest przez to wolniejsza, ale jesteśmy niezależni i stabilni finansowo.  Nie zamkniemy interesu, gdy nie uda się znaleźć inwestorów na kolejną rundę i/lub nie uda się dogonić wydatków przychodami.  Musimy, więc wychodzimy na plus.
  
 ## Kogo szukamy?
  
@@ -36,19 +36,17 @@ Przede wszystkim, szukamy kogoś zainteresowanego uczestnictwem w czymś dużym 
  
 Koniecznie: silny React i vanilla js.
  
-Mile widziane: GraphQL / Apollo, node.js, Redux, ogólnie pojęta architektura, doświadczenie z pracą zespole.
-
-Ponadto Python (Django) i PostgreSQL też mile widziane, ale bez nich bez problemu przeżyjemy.
+Mile widziane: GraphQL / Apollo, node.js, PostgreSQL, ogólnie pojęta architektura, doświadczenie z pracą zespole. ReactNative też byłby super.
 
 Doświadczenie: najchętniej senior, ale dla zajawionego/ogarniętego juniora też znajdzie się miejsce.
 
 ## Miejsce
 
-Kraków, Sienkiewicza 9/17.  Nie budujemy zdalnego zespołu.
+Kraków, Kościelna 3 (śliczne piętro w starej willi przy Radiu Kraków).  Nie budujemy zdalnego zespołu.
 
 ## Kasa
 
-Senior: 10-15k netto na B2B i odpowiednio mniej przy umowie o pracę.
+Senior: 10-16k netto na B2B i odpowiednio mniej przy umowie o pracę.
 Junior i mid: odpowiednio mniej.
 
 ## Inni o nas:
@@ -56,11 +54,10 @@ Junior i mid: odpowiednio mniej.
 * https://techcrunch.com/2016/06/24/omni-calculator-brings-math-to-the-masses/
 * http://wyborcza.biz/biznes/1,147584,20518836,wszechkalkulator-z-polski-bedziemy-tak-popularni-ze-google.html (zaczynaliśmyu)
 * http://krakow.wyborcza.pl/krakow/7,44425,21700686,omni-calculator-obliczy-wszystko-sukces-aplikacji-z-krakowa.html (pół roku temu)
-* https://in-krakow.pl/news-details/krakowski-kalkulator-przeliczy-wszystko-robi-furore-w-usa/59c3bf90b9c7832900942c41 (film)
 * http://www.rdc.pl/podcast/popoludnie-rdc-omni-calculator/ (radio)
 
 ## Brzmi ciekawie?
 
-Super.  Pogadajmy.  Najprościej jest wyciągnąć telefon z kieszeni i wykręcić 507-758-583.  Albo umówić się tekstowo - matt@omnicalculator.com.  **Teraz, potem wypadnie z głowy.**
+Super.  Pogadajmy.  Podrzuć mejla z CV na careers@omnicalculator.com.  **Teraz, potem wypadnie z głowy.**
 
 
