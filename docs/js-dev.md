@@ -42,7 +42,7 @@ Doświadczenie: najchętniej senior, ale dla zajawionego/ogarniętego juniora te
 
 ## Miejsce
 
-Kraków, Kościelna 3 (śliczne piętro w starej willi przy Radiu Kraków).  Nie budujemy zdalnego zespołu.
+Kraków, Kościelna 3 (śliczne piętro w pięknej willi art deco przy Radiu Kraków).  Nie budujemy zdalnego zespołu.
 
 ## Kasa
 
