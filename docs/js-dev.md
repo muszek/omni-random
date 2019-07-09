@@ -46,7 +46,7 @@ Kraków, Kościelna 3 (śliczne piętro w starej willi przy Radiu Kraków).  Nie
 
 ## Kasa
 
-Senior: 10-16k netto na B2B i odpowiednio mniej przy umowie o pracę.
+Senior: 12-16k netto na B2B i odpowiednio mniej przy umowie o pracę.
 Junior i mid: odpowiednio mniej.
 
 ## Inni o nas:
