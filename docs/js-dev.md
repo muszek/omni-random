@@ -46,7 +46,7 @@ Kraków, Kościelna 3 (śliczne piętro w pięknej willi art deco przy Radiu Kra
 
 ## Kasa
 
-Senior: 12-16k netto na B2B i odpowiednio mniej przy umowie o pracę.
+Senior: 12-16k netto na B2B. Możliwość zatrudnienia również na umowę o pracę.
 Junior i mid: odpowiednio mniej.
 
 ## Inni o nas:
