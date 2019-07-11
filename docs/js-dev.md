@@ -44,11 +44,6 @@ Doświadczenie: najchętniej senior, ale dla zajawionego/ogarniętego juniora te
 
 Kraków, Kościelna 3 (śliczne piętro w pięknej willi art deco przy Radiu Kraków).  Nie budujemy zdalnego zespołu.
 
-## Kasa
-
-Senior: 12-16k netto na B2B. Możliwość zatrudnienia również na umowę o pracę.
-Junior i mid: odpowiednio mniej.
-
 ## Inni o nas:
 
 * https://techcrunch.com/2016/06/24/omni-calculator-brings-math-to-the-masses/
