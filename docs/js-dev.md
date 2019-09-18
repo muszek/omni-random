@@ -36,7 +36,7 @@ Przede wszystkim, szukamy kogoś zainteresowanego uczestnictwem w czymś dużym 
  
 Koniecznie: silny React i vanilla js.
  
-Mile widziane: GraphQL / Apollo, node.js, PostgreSQL, ogólnie pojęta architektura, doświadczenie z pracą zespole. ReactNative też byłby super.
+Mile widziane: GraphQL / Apollo, node.js, PostgreSQL, ogólnie pojęta architektura, doświadczenie z pracą zespole.
 
 Doświadczenie: najchętniej senior, ale dla zajawionego/ogarniętego juniora też znajdzie się miejsce.
 
