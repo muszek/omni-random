@@ -34,7 +34,7 @@ Przede wszystkim, szukamy kogoś zainteresowanego uczestnictwem w czymś dużym 
  
 ## Umiejętności
  
-Koniecznie: silny React i vanilla js.
+Koniecznie: silny React i goły js.
  
 Mile widziane: GraphQL / Apollo, node.js, PostgreSQL, ogólnie pojęta architektura, doświadczenie z pracą zespole.
 
