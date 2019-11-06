@@ -51,7 +51,7 @@ You can work remotely or in our office in Kraków (Kościelna 3).
 
 ### Remuneration
 
-The base salary is 3-3.5k net PLN, depending on a type of contract. This amount is for a full-time engagement, proportionally less if you work part-time.
+The base salary is 3-3.3k net PLN, depending on a type of contract. This amount is for a full-time engagement, proportionally less if you work part-time.
 
 ### Others about us
 
