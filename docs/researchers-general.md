@@ -24,7 +24,7 @@ We built a platform that makes it easy to create and manage hundreds of calculat
 
 ### How's it going?
 
-We launched the website in April 2016.  As of now (April 2019), we have 732 calculators, 4.6 million monthly sessions and keep doubling the traffic every 4-6 months.  We're achieving it without burning investors' money on traffic acquisition or paid SEO, but purely on a superior utility to our users.  People prefer Omni over its competitors, and that keeps us growing (and happy!).  Being covered by TechCrunch, TheNextWeb, Lifehacker, MSN, Popular Mechanics, Gazeta Wyborcza and even Playboy doesn't hurt, either :-).
+We launched the website in April 2016.  As of now (April 2019), we have 732 calculators, 4.6 million monthly sessions and keep growing fast.  We're achieving it without burning investors' money on traffic acquisition or paid SEO, but purely on a superior utility to our users.  People prefer Omni over its competitors, and that keeps us growing (and happy!).  Being covered by The New York Times, The Guardian, Forbes, IFL Science, National Geographic, Science Alert, TechCrunch, TheNextWeb, Lifehacker, Popular Mechanics, and even Playboy doesn't hurt, either :-).
 
 ### Where is it going?
 
