@@ -47,7 +47,7 @@ What we need:
 
 ### Place of work
 
-You can work remotely or in our office in Kraków (Kościelna 3).
+You can work remotely or in our office in Kraków (Karmelicka 14/7).
 
 ### Remuneration
 
