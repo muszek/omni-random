@@ -2,7 +2,7 @@
 
 **TLDR; [Omni Calculator](https://www.omnicalculator.com) szuka javascriptowego fullstackowego developera (głównie React), który chce być istotną częścią czegoś dużego. Jesteśmy niezależnym, zarabiającym na siebie starupem. Mamy fajny produkt, misję i miliony wdzięcznych użytkowników. Mamy mega szybki i solidnie ugruntowany wzrost. Zespół liczy aktualnie 23 osoby z 6 krajów.**
 
-Wolisz słuchać, niż czytać?  A proszę: https://www.youtube.com/watch?v=bA_FenPhOHs
+Wolisz słuchać, niż czytać?  A proszę: https://youtu.be/eW28IF1WP5g
 
 Może to i nietypowe ogłoszenie, ale jest niezmierne ważne, żebyśmy znaleźli kogoś, kto się dobrze wpasowuje w nasz zespół, produkt i wizję... i żebyś wiedział(-a), w co się pakujesz.  Zatem w tym tekscie nie przeczytasz o tym, że dostaniesz multisporta i banany, ale raczej o tym, po co robimy to, co robimy.  Będzie też trochę przydługawo, ale chcemy zabrać kilka następnych lat z Twojego życia, więc może warto poświęcić 5 minut na poczytanie o nas.  Przeczytaj i zagadaj, jeśli wyda Ci się to ciekawe.
 
