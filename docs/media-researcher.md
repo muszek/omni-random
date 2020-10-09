@@ -15,7 +15,7 @@ We need you to be:
  * … accurate and time efficient
  * … able to follow deadlines
  * … an excellent English speaker and writer (C1 level)
- * … able to commit to at least 20 hours of work per week                                (especially on Monday and Tuesday)
+ * … able to commit to at least 20 hours of work per week (especially on Mondays and Tuesdays)
  * … a proud owner of a bachelor degree (preferably)
 
 ## What will you be doing?
@@ -25,15 +25,17 @@ We need you to be:
  * Building an organizing the database of media contacts
  * Managing media lists in email outreach tools
  * Collaborating with the marketing team
- * Place of work
- * In our office in Kraków (Karmelicka 14/7). 
- * Remuneration
+
+## Place of work
+
+* In our office in Kraków (Karmelicka 14/7) or remotely, depending on the Covid situation.
 
 ## Remuneration
 
 The base salary is 3-3.3k net PLN, depending on a type of contract. This amount is for a full-time engagement, proportionally less if you work part-time.
 
 ## Sounds good?
+
 Awesome, let's talk. Don't procrastinate, write now on careers@omnicalculator.com .
 We also invite you to solve the media researcher recruitment form which is the first step to get that awesome job :)
  
