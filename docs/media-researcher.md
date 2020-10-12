@@ -4,11 +4,13 @@
 
 ## Who are we?
 
-Omni Calculator exists to help regular people see the world through the lens of science and math formulas, so they can make better decisions. We built over 1300 calculators that help everyone tackle problems anywhere from physics, maths and chmistry to construction, finance and everyday life.
+Omni Calculator exists to help regular people see the world through the lens of science and math formulas, so they can make better decisions. So far, we've built over 1300 calculators that help everyone tackle problems anywhere from physics, maths and chmistry to construction, finance and everyday life. Currently, they're used by over 8 million people per month.
 
 ## Who do we need?
 
-Omni Calculator makes people know about our service by producing special calculators aren't always useful, but are always interesting/funny/insightful enough that journalists are happy to write about them.  For every one of those calculators, we’ll need you to find out who might be interested and build a contact database. You will need to do a lot of research, play a detective, and be fast and accurate at the same time.
+Omni Calculator makes people know about our service by producing special calculators aren't always useful, but are always interesting/funny/insightful enough that journalists are happy to write about them.  We've had success with the top-grade titles such as New York Times, Washington Post, Guardian, National Geographic and Nature.
+
+For every one of those "marketing" calculators, we’ll need you to find out who might be interested and build a contact database. You will need to do a lot of research, play a detective, and be fast and accurate at the same time.
 
 We need you to be:
  * … detail oriented with strong organizational skills      
