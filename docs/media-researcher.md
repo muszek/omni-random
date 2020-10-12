@@ -4,11 +4,11 @@
 
 ## Who are we?
 
-Omni Calculator exists to help people make better decisions based on hard numbers, as opposed to emotions or intuition. We deliver niche product which is a platform where you can find calculators to calculate almost everything. Currently on our web page you can find over 1000 calculators that make it easy and scalable to turn real-life problems into easy-to-use calculators.
+Omni Calculator exists to help regular people see the world through the lens of science and math formulas, so they can make better decisions. We built over 1300 calculators that help everyone tackle problems anywhere from physics, maths and chmistry to construction, finance and everyday life.
 
 ## Who do we need?
 
-Omni Calculator makes people know about our service by producing awesome calculators that journalists are happy to write about. For every one of those calculators, we’ll need you to find out who might be interested and build a contact database. You will need to do a lot of research, play a detective, and be fast and accurate at the same time.
+Omni Calculator makes people know about our service by producing special calculators aren't always useful, but are always interesting/funny/insightful enough that journalists are happy to write about them.  For every one of those calculators, we’ll need you to find out who might be interested and build a contact database. You will need to do a lot of research, play a detective, and be fast and accurate at the same time.
 
 We need you to be:
  * … detail oriented with strong organizational skills      
